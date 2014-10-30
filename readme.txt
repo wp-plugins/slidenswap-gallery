@@ -30,7 +30,8 @@ Installing "SlideNSwap" can be done either by searching for "SlideNSwapgo" via t
 Example shortcode: [slidenswap id="2" width="200px" height="200px" controllers="false"]
 
 == Screenshots ==
-http://i.imgur.com/djBLc5i.png
+1. This is how it looks on the frontend (can be customized of course)
+2. This is the admin dashboard (very simple)
 
 == Changelog ==
 
