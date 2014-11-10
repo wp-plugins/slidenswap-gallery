@@ -14,7 +14,7 @@ Create image galleries with simple panning and zooming effects (something like t
 Create image galleries with simple panning and zooming effects (something like the Ken Burns effect)
 
 This is how the gallery looks like in action:
-[youtube http://www.youtube.com/watch?v=6Dvm6wGvaoM]
+[vimeo https://vimeo.com/111421888]
 
 More info: http://www.github.com/AZdv/slidenswap
 
